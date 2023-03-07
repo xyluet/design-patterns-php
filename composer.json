@@ -1,0 +1,19 @@
+{
+    "name": "xyluet/design-patterns-php",
+    "description": "PHP example for all classic GoF design patterns",
+    "autoload": {
+        "psr-4": {
+            "Patterns\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Ali Sunjaya",
+            "email": "ali.sunjayaa@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "php": ">=7.3"
+    }
+}
